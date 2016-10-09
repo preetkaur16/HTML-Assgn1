@@ -1,0 +1,18 @@
+.heading{
+color:#FF0000;
+margin-left:12;
+text-decoration: underline;
+}
+
+.p01{
+margin-left:25;
+font-family: "Times New Roman";
+
+}
+
+.commandheading {
+    background-color: #1E90FF;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
